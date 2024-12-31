@@ -45,14 +45,24 @@ Graphical Visualization
 	1.	Energy Distribution:
 	•	Plot histograms of electron energies (log-uniform distribution) for each dataset.
 	•	Use tools like matplotlib or seaborn.
+ 
+ 
   <img width="708" alt="Screenshot 2024-12-30 at 9 23 40 PM" src="https://github.com/user-attachments/assets/af74980f-bf82-4afa-b78d-3da985132b0d" />
+  
+  
 	2.	Voxel Activation:
 	•	Visualize a single calorimeter layer or a slice of the 3D grid using heatmaps.
+ 
+ 
  <img width="696" alt="Screenshot 2024-12-30 at 9 23 57 PM" src="https://github.com/user-attachments/assets/91c3de35-9388-47f4-909e-c9bb4d7be9b3" />
+ 
+ 
 	3.	Shower Profile:
 	•	Plot longitudinal and transverse energy profiles across layers.
 	4.	3D Shower Visualization:
 	•	Use libraries like matplotlib (3D scatter plot) or plotly for interactive 3D voxel intensity visualization. 
+
+
 <img width="761" alt="Screenshot 2024-12-30 at 9 22 11 PM" src="https://github.com/user-attachments/assets/115012d1-c514-43fa-a6b3-27c68fc290a0" />    <img width="751" alt="Screenshot 2024-12-30 at 9 22 54 PM" src="https://github.com/user-attachments/assets/0d08d2db-1583-4009-96d2-67aee9ccd4d0" />
       
 
