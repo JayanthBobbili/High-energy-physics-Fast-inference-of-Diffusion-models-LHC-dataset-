@@ -1,4 +1,4 @@
-# Geant4-FastSim - Fast inference of Diffusion models
+# High-energy physics Fast inference of Diffusion models LHC dataset 
 
 ## INTRODUCTION
 
@@ -42,6 +42,8 @@ Simulation Origin:
 Visualization will help explore the dataset, identify patterns, and validate preprocessing steps.
 
 Graphical Visualization
+
+
 	1.	Energy Distribution:
 	•	Plot histograms of electron energies (log-uniform distribution) for each dataset.
 	•	Use tools like matplotlib or seaborn.
@@ -63,7 +65,10 @@ Graphical Visualization
 	•	Use libraries like matplotlib (3D scatter plot) or plotly for interactive 3D voxel intensity visualization. 
 
 
-<img width="761" alt="Screenshot 2024-12-30 at 9 22 11 PM" src="https://github.com/user-attachments/assets/115012d1-c514-43fa-a6b3-27c68fc290a0" />    <img width="751" alt="Screenshot 2024-12-30 at 9 22 54 PM" src="https://github.com/user-attachments/assets/0d08d2db-1583-4009-96d2-67aee9ccd4d0" />
+<img width="761" alt="Screenshot 2024-12-30 at 9 22 11 PM" src="https://github.com/user-attachments/assets/115012d1-c514-43fa-a6b3-27c68fc290a0" />   
+
+
+<img width="751" alt="Screenshot 2024-12-30 at 9 22 54 PM" src="https://github.com/user-attachments/assets/0d08d2db-1583-4009-96d2-67aee9ccd4d0" />
       
 
  
