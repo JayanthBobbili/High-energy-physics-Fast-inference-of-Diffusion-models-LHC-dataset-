@@ -19,7 +19,7 @@ Comparative Analysis:Benchmarks comparing VAE, VQ-VAE, and diffusion models in t
 ## Understanding the High granularity dataset
 
 ### Dataset Overview
-
+```
 Composition:
 Contains 4 HDF5 files:
 	•	dataset_3_1.hdf5 and dataset_3_2.hdf5 for training.
@@ -36,7 +36,8 @@ Detector Geometry:
 	•	Total voxel count:  18 \times 50 \times 45 = 40,500 
 Simulation Origin:
 	•	Generated using the Par04 example from the Geant4 toolkit.
-
+ 
+```
 ### Data Visualization
 
 Visualization will help explore the dataset, identify patterns, and validate preprocessing steps.
